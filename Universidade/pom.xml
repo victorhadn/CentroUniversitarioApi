@@ -8,11 +8,11 @@
 		<version>2.3.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>deistribuidora</groupId>
-	<artifactId>distribuidora</artifactId>
+	<groupId>universidade</groupId>
+	<artifactId>universidade</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>distribuidora</name>
-	<description>Distribuidora</description>
+	<name>universidade</name>
+	<description>Universidade</description>
 
 	<properties>
 		<java.version>11</java.version>
